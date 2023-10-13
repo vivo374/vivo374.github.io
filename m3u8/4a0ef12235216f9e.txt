@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:9
+#EXTINF:8.341667,
+https://crm-identity-check.b0.upaiyun.com/upchat/2023-10-13/1697203654210.png?_upt=ce0b1bc18204803200
+#EXTINF:8.341667,
+https://crm-identity-check.b0.upaiyun.com/upchat/2023-10-13/1697203635792.png?_upt=c54999b18204803200
+#EXTINF:8.341667,
+https://crm-identity-check.b0.upaiyun.com/upchat/2023-10-13/1697203636179.png?_upt=b90d77138204803200
+#EXTINF:3.036367,
+https://crm-identity-check.b0.upaiyun.com/upchat/2023-10-13/1697203656014.png?_upt=c96bd5a48204803200
+#EXT-X-ENDLIST
